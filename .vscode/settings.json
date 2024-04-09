@@ -1,0 +1,55 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\chadrabhushan\\OneDrive\\Desktop\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#15eb5c69",
+        "activityBar.background": "#48454569",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#081808",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "editorError.foreground": "#000000ff",
+        "editorGroup.border": "#4d494969",
+        "editorInfo.foreground": "#000000ff",
+        "editorWarning.foreground": "#000000ff",
+        "panel.border": "#4d494969",
+        "sash.hoverBorder": "#4d494969",
+        "sideBar.border": "#4d494969",
+        "statusBar.background": "#33303069",
+        "statusBar.border": "#33303069",
+        "statusBar.debuggingBackground": "#30333369",
+        "statusBar.debuggingBorder": "#30333369",
+        "statusBar.debuggingForeground": "#d71919",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#4d494969",
+        "statusBarItem.remoteBackground": "#33303069",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "tab.activeBorder": "#b9191969",
+        "titleBar.activeBackground": "#33303069",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.border": "#33303069",
+        "titleBar.inactiveBackground": "#33303099",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "java.debug.settings.onBuildFailureProceed": true,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "cbhere",
+            "database": "study",
+            "username": "root",
+            "password": "@cbhere_7524",
+            "connectionTimeout": 30
+        }
+    ]
+}
